@@ -1,0 +1,7 @@
+<% @snippets.each_index do |index|%>
+  	<a href="snippet/<%=index%>"><%= @snippets[index][:short] %></a>
+  	<a href="edit/<%=index%>">Edit</a>
+  	<a href="delete/<%=index%>">Delete</a>
+  	<br>
+<%end %>
+<a href="new">New Snippet</a>

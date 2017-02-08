@@ -1,0 +1,23 @@
+---
+- :short: Second Heading 1
+  :long_info: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum. Cool
+- :short: new new snippet
+  :long_info: Some text
+- :short: Edited Again
+  :long_info: Phasellus hendrerit, odio vulputate iaculis venenatis, tortor libero
+    vehicula ante, quis facilisis ipsum ipsum eu felis. In lacinia vestibulum dolor
+    at iaculis. Maecenas porta commodo augue et posuere. Class aptent taciti sociosqu
+    ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus ac lectus
+    feugiat, egestas libero nec, consequat enim. Nullam dapibus nulla vitae felis
+    viverra, id imperdiet mi dapibus. Duis eget dictum nisl. Pellentesque lectus nisi,
+    scelerisque non enim ut, mattis varius eros. Vestibulum ante ipsum primis in faucibus
+    orci luctus et ultrices posuere cubilia Curae; Praesent id fermentum lacus. Vestibulum
+    sagittis sem vel elit ullamcorper congue. Integer in dolor purus. In neque sem,
+    sagittis quis velit nec, varius pellentesque lorem.
+- :short: New Snippet
+  :long_info: The new page now has multiline edit box
